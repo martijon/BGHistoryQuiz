@@ -1,0 +1,2 @@
+rootProject.name='BGHistoryQuiz'
+include ':app'
